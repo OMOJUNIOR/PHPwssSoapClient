@@ -1,0 +1,18 @@
+{
+    "name": "omojunior/ph-pwss-soap-client",
+    "description": "This package is a wrapper based around the PHP soap Client,the package main purpose is to help developers make a call to web services using wsdl and wss security as their authentication method.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Omojunior\\PhPwssSoapClient\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "omojunior",
+            "email": "amb.swaraymusa@gmail.com"
+        }
+    ],
+    "require": {}
+}
